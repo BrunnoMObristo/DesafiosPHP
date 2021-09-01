@@ -1,0 +1,21 @@
+body {
+  background-image: url("http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/7982dde7eb21edc.png");
+}
+
+#main {
+  width: 45em;
+  color: #4c2fcc;
+}
+
+#sidebar {
+  width: 45em;
+  color: #f7290e;
+  background: #3d0979;
+}
+
+#divTeste {
+  width: 45em;
+  height: 100px;
+  background: #34c434;
+}
+/*# sourceMappingURL=styles.css.map */

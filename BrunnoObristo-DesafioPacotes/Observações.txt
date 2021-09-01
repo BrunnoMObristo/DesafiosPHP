@@ -1,4 +1,0 @@
-O index2.php se trata do uso de um pacote gerador de PDF. Necessário colocar no htdocs e rodar via xampp, por favor! <3
-
-http://localhost:8081/BrunnoObristo-DesafioPacotes/pdf.php
-http://localhost:8081/BrunnoObristo-DesafioPacotes/timer.php
